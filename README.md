@@ -53,6 +53,9 @@ It will require the bitstream to be uploaded to the board before anything will f
 
 ![IMG_6621](https://github.com/TheMindVirus/icepack/blob/main/screenshots/IMG_6621.jpg)
 
+It is important to note that once the device is programmed, the memory is volatile \
+which means the firmware will be lost and will need reprogramming by an external device.
+
 Modern USB Gadget Devices will have better programmability for custom functions and \
 data streams going to the icepack widget display, where the app is aware of the grid size.
 
