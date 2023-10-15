@@ -1,0 +1,19 @@
+|IcePackTLDF
+LEDA1 <= <GND>
+LEDA2 <= <GND>
+LEDA3 <= <GND>
+LEDA4 <= <GND>
+LEDA5 <= <GND>
+LEDA6 <= <GND>
+LEDA7 <= <GND>
+LEDA8 <= <GND>
+LEDB1 <= <VCC>
+LEDB2 <= <VCC>
+LEDB3 <= <VCC>
+LEDB4 <= <VCC>
+LEDB5 <= <VCC>
+LEDB6 <= <VCC>
+LEDB7 <= <VCC>
+LEDB8 <= <VCC>
+
+

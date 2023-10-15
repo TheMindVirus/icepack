@@ -1,0 +1,20 @@
+Info: Read atom netlist
+Info: Directory C:/Users/Alastair/Downloads/Alteraduino/board/fpgaxchange exists --if you continue the contents of the directory may be overwritten
+Info: Generating FPGA Xchange file C:/Users/Alastair/Downloads/Alteraduino/board/fpgaxchange/IcePack.fx
+Info: Atom 18 (LEDA1) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 19 (LEDA2) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 20 (LEDA3) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 21 (LEDA4) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 22 (LEDA5) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 23 (LEDA6) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 24 (LEDA7) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 25 (LEDA8) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 26 (LEDB1) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 27 (LEDB2) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 28 (LEDB3) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 29 (LEDB4) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 30 (LEDB5) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 31 (LEDB6) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 32 (LEDB7) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: Atom 33 (LEDB8) has key 'output,3.3-V LVTTL,24,Off,--,--,0,--,0,--,--'
+Info: FPGA Xchange file C:/Users/Alastair/Downloads/Alteraduino/board/fpgaxchange/IcePack.fx generated successfully

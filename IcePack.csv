@@ -1,0 +1,37 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# File: C:\Users\Alastair\Downloads\Alteraduino\IcePack.csv
+# Generated on: Sun Oct 15 17:27:10 2023
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard,Reserved,Current Strength,Differential Pair
+LEDA1,Unknown,PIN_48,4,B4_N1,,,,
+LEDA2,Unknown,PIN_52,4,B4_N1,,,,
+LEDA3,Unknown,PIN_55,4,B4_N1,,,,
+LEDA4,Unknown,PIN_58,4,B4_N1,,,,
+LEDA5,Unknown,PIN_60,4,B4_N0,,,,
+LEDA6,Unknown,PIN_64,4,B4_N0,,,,
+LEDA7,Unknown,PIN_67,4,B4_N0,,,,
+LEDA8,Unknown,PIN_70,4,B4_N0,,,,
+LEDB1,Unknown,PIN_47,4,B4_N1,,,,
+LEDB2,Unknown,PIN_51,4,B4_N1,,,,
+LEDB3,Unknown,PIN_53,4,B4_N1,,,,
+LEDB4,Unknown,PIN_57,4,B4_N1,,,,
+LEDB5,Unknown,PIN_59,4,B4_N0,,,,
+LEDB6,Unknown,PIN_63,4,B4_N0,,,,
+LEDB7,Unknown,PIN_65,4,B4_N0,,,,
+LEDB8,Unknown,PIN_69,4,B4_N0,,,,
